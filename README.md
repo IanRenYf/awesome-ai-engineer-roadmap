@@ -1,6 +1,6 @@
 # awesome-ai-engineer-roadmap
 
-A curated, topic-oriented roadmap for becoming an AI engineer. Resources are organized by topic, so you can follow a learning path end-to-end.
+A curated, topic-oriented roadmap for becoming an AI engineer, one can follow a learning path end-to-end.
 
 ## LLM from Scratch
 
