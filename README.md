@@ -12,11 +12,11 @@ Everything you need to go from zero ML knowledge to understanding, building, and
 
 | Name | Link | Type | Value |
 | --- | --- | --- | --- |
-| Google ML Crash Course | [Link](https://developers.google.com/machine-learning) | MOOC | Quickly step into ML with a free, applied crash course. |
-| Neural Networks: Zero to Hero | [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | MOOC | Enough ML & DL to start walking into a toy LLM training, taught by Andrej Karpathy. |
+| Google ML Crash Course | [Link](https://developers.google.com/machine-learning) | MOOC | Quickly step into ML with a free crash course. |
+| Neural Networks: Zero to Hero | [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | MOOC | Background knowledge to start walking into a toy LLM training, taught by Andrej Karpathy. |
 | MIT 6.S191: Introduction to Deep Learning | [Link](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | MOOC | A more formal yet crash-course intro to deep learning from MIT. |
 | CS336: Language Modeling from Scratch | [Link](https://cs336.stanford.edu/) | MOOC | The hardcore behind LLMs — build a language model from the ground up. |
-| CMU Advanced NLP | [Course](https://cmu-l3.github.io/anlp-spring2026/) \| [Recording](https://youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | MOOC | A research-flavored complement to CS336, covering advanced NLP that works in practice. |
+| CMU Advanced NLP | [Course](https://cmu-l3.github.io/anlp-spring2026/) \| [Recording](https://youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | MOOC | A complement to CS336. |
 | Reinforcement Learning for LLM Post-Training: A Survey | [Link](https://arxiv.org/abs/2407.16216) | Survey | Comprehensive survey of RL methods for LLM post-training (RLHF and beyond). |
 
 ## LLM Domain Adaptation
