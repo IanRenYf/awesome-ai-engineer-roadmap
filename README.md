@@ -4,7 +4,15 @@ A curated, newbie-friendly roadmap for becoming an AI engineer, one can follow a
 
 ## All math you need
 
-- [math-prep-collection](https://github.com/dair-ai/Mathematics-for-ML)
+| Name | Link | Type | Value |
+| --- | --- | --- | --- |
+| The Matrix Calculus You Need For Deep Learning | https://arxiv.org/abs/1802.01528 | Paper | A great paper that covers all the matrix calculus you need for deep learning. |
+| The Mathematics of AI | https://arxiv.org/pdf/2203.08890.pdf | Paper | An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field. |
+| Applied Math and Machine Learning Basics | https://www.deeplearningbook.org/contents/part_basics.html | Book Chapter | Math basics for the [DeepLearning Book](https://www.deeplearningbook.org/) |
+| Mathematics for Machine Learning | https://mml-book.github.io/ | Book | This is probably the place you want to start. Start slowly and work on some examples. Pay close attention to the notation and get comfortable with it. |
+| Appendix: Mathematics for Deep Learning¶ | https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html | Book Appendix | This is a great appendix to the [Dive into Deep Learning](https://d2l.ai/) book. It covers the math you need to understand deep learning. |
+| The Mathematical Engineering of Deep Learning | https://deeplearningmath.org/ | Book | Mathematics on Deep Learning in deepth. |
+
 
 ## LLM from Scratch
 
@@ -39,3 +47,10 @@ Resources for understanding, designing, and building agentic AI systems.
 | Berkeley RDI Agentic AI MOOC | [Link](https://agenticai-learning.org/f25) | MOOC | A full course on building agentic AI systems, from Berkeley RDI. |
 | Agent Harness Engineering | [Link](https://addyosmani.com/blog/agent-harness-engineering/) | Blog | Explains what an agent "harness" is and the engineering patterns for building one. |
 | 工程技术：在智能体优先的世界中利用 Codex | [Link](https://openai.com/zh-Hans-CN/index/harness-engineering/) | Blog | Best practices for managing context in coding agent harnesses. |
+
+
+## Acknowledgements
+Thanks to [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) curated by [dair-ai](https://github.com/dair-ai) for collecting great math resources for machine learning beginners. The math resources in this repo are heavily inspired by their work. I selected the most relevant resources from my perspective to quickly step into the field, and added some additional resources that I found useful. If you are interested in more math resources, I highly recommend checking out their repo.
+
+
+
