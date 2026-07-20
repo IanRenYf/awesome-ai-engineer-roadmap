@@ -1,17 +1,16 @@
 # awesome-ai-engineer-roadmap
 
-A curated, newbie-friendly roadmap for becoming an AI engineer, one can follow a learning path end-to-end.
+A curated, beginner-friendly roadmap for becoming an AI engineer, one can follow a learning path end-to-end.
 
 ## All math you need
 
 | Name | Link | Type | Value |
 | --- | --- | --- | --- |
-| The Matrix Calculus You Need For Deep Learning | https://arxiv.org/abs/1802.01528 | Paper | A great paper that covers all the matrix calculus you need for deep learning. |
-| The Mathematics of AI | https://arxiv.org/pdf/2203.08890.pdf | Paper | An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field. |
-| Applied Math and Machine Learning Basics | https://www.deeplearningbook.org/contents/part_basics.html | Book Chapter | Math basics for the [DeepLearning Book](https://www.deeplearningbook.org/) |
-| Mathematics for Machine Learning | https://mml-book.github.io/ | Book | This is probably the place you want to start. Start slowly and work on some examples. Pay close attention to the notation and get comfortable with it. |
 | Appendix: Mathematics for Deep Learning | https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html | Book Appendix | This is a great appendix to the [Dive into Deep Learning](https://d2l.ai/) book. It covers the math you need to understand deep learning. |
-| The Mathematical Engineering of Deep Learning | https://deeplearningmath.org/ | Book | An In-Depth Introduction to the Mathematics of Deep Learning. |
+| Navigating Mathematical Basics: A Primer for Deep Learning in Science | https://deeplearningmath.org/docs/deep_learning_math_background.pdf | Paper | A “math crash course” aimed at quickly enabling scientists with understanding of the building blocks used in many equations, formulas, and algorithms that describe deep learning. |
+| Mathematics for Machine Learning | https://mml-book.github.io/ | Book | This is probably the place you want to start. Start slowly and work on some examples. Pay close attention to the notation and get comfortable with it. |
+| The Matrix Calculus You Need For Deep Learning | https://arxiv.org/abs/1802.01528 | Paper | A great paper that covers all the matrix calculus you need for deep learning. |
+| Applied Math and Machine Learning Basics | https://www.deeplearningbook.org/contents/part_basics.html | Book Chapter | Math basics for the [DeepLearning Book](https://www.deeplearningbook.org/) |
 
 
 ## LLM from Scratch
@@ -24,8 +23,8 @@ Everything you need to go from zero ML knowledge to understanding, building, and
 | Neural Networks: Zero to Hero | [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | MOOC | Background knowledge to start walking into a toy LLM training, taught by Andrej Karpathy. |
 | MIT 6.S191: Introduction to Deep Learning | [Link](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | MOOC | A more formal yet crash-course intro to deep learning from MIT. |
 | CS336: Language Modeling from Scratch | [Link](https://cs336.stanford.edu/) | MOOC | The hardcore behind LLMs — build a language model from the ground up. |
-| CMU Advanced NLP | [Course](https://cmu-l3.github.io/anlp-spring2026/) \| [Recording](https://youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | MOOC | A complement to CS336. |
-| Reinforcement Learning for LLM Post-Training: A Survey | [Link](https://arxiv.org/abs/2407.16216) | Survey | Comprehensive survey of RL methods for LLM post-training (RLHF and beyond). |
+| CMU Advanced NLP | [Course](https://cmu-l3.github.io/anlp-spring2026/) | [Recording](https://youtube.com/playlist?list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx) | MOOC | A complement to CS336. |
+| Reinforcement Learning for LLM Post-Training: A Survey | [Link](https://arxiv.org/abs/2407.16216) | Survey | Comprehensive survey of RL methods for LLM post-training. |
 
 ## LLM Domain Adaptation
 
