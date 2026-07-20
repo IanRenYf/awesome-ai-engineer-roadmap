@@ -11,7 +11,7 @@ A curated, newbie-friendly roadmap for becoming an AI engineer, one can follow a
 | Applied Math and Machine Learning Basics | https://www.deeplearningbook.org/contents/part_basics.html | Book Chapter | Math basics for the [DeepLearning Book](https://www.deeplearningbook.org/) |
 | Mathematics for Machine Learning | https://mml-book.github.io/ | Book | This is probably the place you want to start. Start slowly and work on some examples. Pay close attention to the notation and get comfortable with it. |
 | Appendix: Mathematics for Deep Learning | https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html | Book Appendix | This is a great appendix to the [Dive into Deep Learning](https://d2l.ai/) book. It covers the math you need to understand deep learning. |
-| The Mathematical Engineering of Deep Learning | https://deeplearningmath.org/ | Book | Mathematics on Deep Learning in deepth. |
+| The Mathematical Engineering of Deep Learning | https://deeplearningmath.org/ | Book | An In-Depth Introduction to the Mathematics of Deep Learning. |
 
 
 ## LLM from Scratch
